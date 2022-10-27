@@ -8,3 +8,11 @@ contacts:
 tags:
   - "service:tv-recorder"
 ---
+schema-version: v2
+dd-service: git-test
+team: "kyouhei
+contacts:
+  - type: email
+    contact: kyouhei@gmail.com
+tags:
+  - "purpose:testing"
