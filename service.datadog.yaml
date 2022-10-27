@@ -1,7 +1,7 @@
 ---
 schema-version: v2
 dd-service: tv-recorder
-team: "kyouhei
+team: kyouhei
 contacts:
   - type: email
     contact: kyouhei@gmail.com
@@ -10,7 +10,7 @@ tags:
 ---
 schema-version: v2
 dd-service: git-test
-team: "kyouhei
+team: kyouhei
 contacts:
   - type: email
     contact: kyouhei@gmail.com
