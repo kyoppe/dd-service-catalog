@@ -5,6 +5,12 @@ team: kyouhei
 contacts:
   - type: email
     contact: kyouhei@gmail.com
+  - type: slack
+    contact: https://kyoppe.slack.com/archives/CJ2DFDZJL
+links:
+  - name: Kyouhei's Dashboard
+    type: dashboard
+    url: https://app.datadoghq.com/dashboard/42x-k8n-48q/kyouheis-dashboard
 tags:
   - "service:tv-recorder"
 ---
