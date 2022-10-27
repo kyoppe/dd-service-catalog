@@ -1,0 +1,10 @@
+---
+schema-version: v2
+dd-service: tv-recorder
+team: "kyouhei
+contacts:
+  - type: email
+    contact: kyouhei@gmail.com
+tags:
+  - "service:tv-recorder"
+---
